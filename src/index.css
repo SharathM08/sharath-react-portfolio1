@@ -16,3 +16,9 @@ body{
 .custom-stroke{
     stroke:red!important;
 }
+
+@media (max-width: 640px) {
+    .scroll-icon{
+        display: none;
+    }
+}

@@ -10,7 +10,7 @@ export const Navbar = () => {
         <nav className="flex h-[15vh] w-full justify-between px-5 py-10 max-w-[60rem]">
           <div className="logo">
             {/*<img className="w-24 md:w-28" src={logo} alt="" />*/}
-            <p className="font-semibold text-2xl text-white md:text-4xl"><a href="/">Sha<span className="bg-color1">rath</span></a></p>
+            <p className="font-semibold text-2xl text-white md:text-4xl"><a href="/">Sha<span className="bg-fontBlue text-transparent bg-clip-text overflow-hidden mr-1 will-change-transform will-change-opacity">rath</span></a></p>
           </div>
           <div onClick={() => setToggle(!toggle)} className="menu md:hidden">
             <img className="w-8" src={menu} alt="" />

@@ -9,12 +9,15 @@ export const HeroSect = () => {
   const words = ["Web Developer", "React Developer", "Full Stack Developer"];
 
   useEffect(() => {
+    let index = 0;
     const interval = setInterval(() => {
-      setWord((prev) => (prev === words[0] ? words[1] : words[0]));
+      index = (index + 1) % words.length;
+      setWord(words[index]);
     }, 3000);
 
     return () => clearInterval(interval);
-  });
+  }, []);
+
   return (
     <>
       <div id="Home" className="flex justify-center">
@@ -49,6 +52,7 @@ export const HeroSect = () => {
                     ease: "easeInOut",
                   }}
                 ></motion.span>
+
               </span>
               <motion.span
                 initial={{ opacity: 0 }}
