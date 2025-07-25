@@ -6,7 +6,7 @@ import github from "../assets/icons/github.svg";
 import scrollIcon from "../assets/icons/scroll-animation.svg";
 export const HeroSect = () => {
   const [word, setWord] = useState("Developer");
-  const words = ["Web Developer", "React Developer"];
+  const words = ["Web Developer", "React Developer", "Full Stack Developer"];
 
   useEffect(() => {
     const interval = setInterval(() => {
