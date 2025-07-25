@@ -1,5 +1,0 @@
-Project: Movie App
-Subtitle: Real-Time Movie Explorer with API Integration
-Description: A responsive movie search app built using React.js, designed to fetch and display data from a movie database API. It implements debounced search, loading states, and clean component architecture using Context API and Custom Hooks.
-Category: React.js, Web Application, API Integration
-Tech Stack: React, TailwindCSS, JavaScript

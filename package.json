@@ -1,11 +1,14 @@
 {
-  "name": "irfan-dev",
+  "homepage": "https://SharathM08.github.io/sharath-react-portfolio1",
+  "name": "sharath",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "node server.js"

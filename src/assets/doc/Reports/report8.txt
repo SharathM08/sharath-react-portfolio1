@@ -1,6 +1,0 @@
-Project: Sneakers
-Subtitle: Product Showcase Page using HTML/CSS/JS
-Description: A clean and responsive product detail page for sneakers built with HTML, CSS, and JavaScript. Includes image sliders, size selection, and quantity controls with smooth animations.
-Category: JavaScript, UI/UX, Product Page
-Tech Stack: JavaScript, HTML, CSS
-

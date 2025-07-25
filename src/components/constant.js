@@ -20,13 +20,13 @@ import Portfolio1 from "../assets/images/projectImages/project7.png"
 import Sneakers from "../assets/images/projectImages/project8.png"
 
 // projectReports
-import report1 from "../assets/doc/Reports/report1.txt"
-import report2 from "../assets/doc/Reports/report2.txt"
-import report3 from "../assets/doc/Reports/report3.txt"
-import report4 from "../assets/doc/Reports/report4.txt"
-import report5 from "../assets/doc/Reports/report5.txt"
-import report6 from "../assets/doc/Reports/report6.txt"
-import report7 from "../assets/doc/Reports/report7.txt"
+import report1 from "../assets/doc/Reports/report1.pdf"
+import report2 from "../assets/doc/Reports/report2.pdf"
+import report3 from "../assets/doc/Reports/report3.pdf"
+import report4 from "../assets/doc/Reports/report4.pdf"
+import report5 from "../assets/doc/Reports/report5.pdf"
+import report6 from "../assets/doc/Reports/report6.pdf"
+import report7 from "../assets/doc/Reports/report7.pdf"
 
 
 export const Projects = {
