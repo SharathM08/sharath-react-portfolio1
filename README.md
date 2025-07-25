@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Irfan
+# 👋 Hey, I'm Sharath
 
 Welcome to the codebase for my personal portfolio — [irfan-devs.vercel.app](https://irfan-devs.vercel.app) 🚀
 
