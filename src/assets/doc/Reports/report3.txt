@@ -1,0 +1,5 @@
+Project: Coffee Cafe
+Subtitle: Product Landing Page with Dynamic Interactions
+Description: A visually appealing product landing page for a coffee brand built using JavaScript, HTML5, and CSS3. Includes dynamic menu filtering, interactive modals, and mobile-first design for improved user experience.
+Category: JavaScript, UI Design, Responsive Layout
+Tech Stack: JavaScript, HTML, CSS

@@ -1,0 +1,5 @@
+Project: Restaurant
+Subtitle: Static E-commerce Page with Interactive Cart
+Description: A fully responsive restaurant e-commerce page built using JavaScript, HTML, and CSS. Features a dynamic cart, product filters, and mobile navigation to simulate real-world ordering experience.
+Category: JavaScript, HTML, CSS, Responsive UI
+Tech Stack: JavaScript, HTML, CSS

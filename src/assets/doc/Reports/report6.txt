@@ -1,0 +1,6 @@
+Project: Portfolio
+Subtitle: Static Developer Portfolio (HTML/JS)
+Description: A static portfolio site built using HTML, CSS, and JavaScript showcasing projects and skills. Designed with semantic structure and optimized layout to highlight work experience and contact information.
+Category: HTML, CSS, JavaScript, Personal Branding
+Tech Stack: JavaScript, HTML, CSS
+

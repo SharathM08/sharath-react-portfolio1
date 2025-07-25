@@ -1,0 +1,6 @@
+Project: React Portfolio
+Subtitle: Responsive Portfolio Website in React
+Description: A personal developer portfolio showcasing projects and skills using React, TailwindCSS, and Vite. Designed with performance in mind using code splitting and lazy loading. Focused on accessibility and pixel-perfect layout via Figma design translation.
+Category: Portfolio, React.js, Responsive Design
+Tech Stack: React, TailwindCSS, HTML, CSS, JavaScript
+

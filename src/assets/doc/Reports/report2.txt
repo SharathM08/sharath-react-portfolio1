@@ -1,0 +1,5 @@
+Project: Movie App2
+Subtitle: Movie Discovery App with Debounced Search
+Description: Built using React.js and TailwindCSS, this application helps users discover trending movies with live search and filtered results. It uses debouncing, Axios for API calls, and React Router for seamless navigation.
+Category: React.js, Axios, Front-End Development
+Tech Stack: React, TailwindCSS, JavaScript

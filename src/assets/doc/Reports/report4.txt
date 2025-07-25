@@ -1,0 +1,5 @@
+Project: Book Store
+Subtitle: Interactive Quiz Platform using Vanilla JS
+Description: A web-based quiz application developed with JavaScript, HTML, and CSS. Designed for real-time feedback and score tracking with a clean, responsive layout. Implements modular JS functions and browser storage for user progress.
+Category: JavaScript, Web Development, Education
+Tech Stack: JavaScript, HTML, CSS
