@@ -40,7 +40,7 @@ export const Projects = {
             "techStack": [react, tailwind, js],
             "reportLink": report1
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/RespireX.git"
+        "githubLink": "https://sharath-movie-app.netlify.app/"
     },
 
     "movie2": {
@@ -53,7 +53,7 @@ export const Projects = {
             "techStack": [react, tailwind, js, figma],
             "reportLink": report2
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/Insightify.git"
+        "githubLink": "https://sharath-movie-app2.netlify.app/"
     },
 
     "coffee": {
@@ -66,7 +66,7 @@ export const Projects = {
             "techStack": [js, html, css],
             "reportLink": report3
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/MetaShield.git"
+        "githubLink": "https://coffee-cafen.netlify.app/"
     },
 
     "Book": {
@@ -79,7 +79,7 @@ export const Projects = {
             "techStack": [js, html, css],
             "reportLink": report4
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/Quizwhiz-Junction.git"
+        "githubLink": "https://bookly7.netlify.app/"
     },
 
     "Restaurant": {
@@ -92,7 +92,7 @@ export const Projects = {
             "techStack": [js, html, css],
             "reportLink": report5
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/E-medicine.git"
+        "githubLink": "https://food-resto7.netlify.app/"
     },
 
     "Portfolio": {
@@ -105,7 +105,7 @@ export const Projects = {
             "techStack": [js, html, css],
             "reportLink": report6
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/AlgoAnalyzer.git"
+        "githubLink": "https://sharath-portfolio1.netlify.app/"
     },
 
     "Portfolio1": {
@@ -118,7 +118,7 @@ export const Projects = {
             "techStack": [react, tailwind, figma, html, css, js],
             "reportLink": report7
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/AlgoAnalyzer.git"
+        "githubLink": "https://sharath-react-portfolio1.netlify.app/"
     },
 
     "Sneakers": {
@@ -131,7 +131,7 @@ export const Projects = {
             "techStack": [js, html, css],
             "reportLink": ""
         },
-        "githubLink": "https://github.com/IrfanNaikwade28/AlgoAnalyzer.git"
+        "githubLink": "https://sneakers7.netlify.app/"
     },
 }
 
